@@ -6,7 +6,7 @@
 
 - Hi, im 16 years old
 - Discord Bot - [WyThor](https://wythor.tech)
-- TheGrefg Administrator
+- TheGrefg Discord Server Administrator
 - Web Developer and Programmer
 
 ---
