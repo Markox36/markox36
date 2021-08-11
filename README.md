@@ -5,7 +5,7 @@
 # ABOUT ME
 
 - Hi, im 16 years old
-- Discord Bot - [WyThor](https://wythor.tech)
+- Discord Bot - [Chapy](https://discord.com/oauth2/authorize?client_id=791394021963595797&scope=bot&permissions=8)
 - TheGrefg Discord Server Administrator
 - Web Developer and Programmer
 
