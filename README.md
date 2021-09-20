@@ -5,18 +5,23 @@
 # ABOUT ME
 
 - Discord Bot - [Chapy](https://discord.com/oauth2/authorize?client_id=791394021963595797&scope=bot&permissions=8)
-- TheGrefg Discord Server Administrator
-- Web Developer and Programmer
+- Full stack developer (medium level)
 
 ---
 
 ### LANGUAGES
 
+**Front-End**
+- HTML
+- CSS
+- Framework (Bootstrap)
 - JavaScript
-- HTML/CSS/BOOTSTRAP
-- NODE.JS
-- REACT/NEXT.JS
 
+**Back-End**
+- JavaScript
+- NODE.JS
+- REACT
+- REACT NATIVE (En Aprendizaje)
 
 <br />
 
