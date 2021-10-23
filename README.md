@@ -5,7 +5,7 @@
 ### ABOUT ME
 
 - Discord Bot - [Chapy](https://discord.com/oauth2/authorize?client_id=791394021963595797&scope=bot&permissions=8)
-- Full stack developer (medium level)
+- Full stack developer (mid level)
 
 ---
 
