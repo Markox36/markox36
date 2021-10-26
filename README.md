@@ -4,8 +4,9 @@
 
 ### ABOUT ME
 
-- Discord Bot - [Chapy](https://discord.com/oauth2/authorize?client_id=791394021963595797&scope=bot&permissions=8)
-- Full stack developer (mid level)
+### Hi I'm Markox36!
+### I'm a `FrontEnd` and `BackEnd` developer from 📍Spain.
+### I started programming Discord bots, learning how this Discord.js small world worked and the fundamentals of javascript. Later I became interested in web and application development. I am currently learning Java.  
 
 ---
 
