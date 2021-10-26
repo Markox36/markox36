@@ -3,8 +3,6 @@
 [![Mi Discord](https://img.shields.io/discord/564535543124328459?color=7289da&logo=discord&style=for-the-badge)](https://discord.gg/A8U2mn2dTB)
 
 
-<br>
-
 ## ABOUT ME
 
 ### I'm a `FrontEnd` and `BackEnd` developer from 📍Spain.
