@@ -12,8 +12,6 @@
 I started programming Discord bots, learning how discord.js worked and the fundamentals of javascript.
 Later I became interested in web and application development. I am currently learning Java.  
 ```
-<br>
-
 ## KNOWLEDGE
 
 <br>
