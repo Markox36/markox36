@@ -3,7 +3,6 @@
 [![Mi Discord](https://img.shields.io/discord/564535543124328459?color=7289da&logo=discord&style=for-the-badge)](https://discord.gg/A8U2mn2dTB)
 
 ## ABOUT ME
----
 
 ### Hi I'm Markox36!
 ### I'm a `FrontEnd` and `BackEnd` developer from 📍Spain.
