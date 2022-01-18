@@ -51,19 +51,30 @@ Later I became interested in web and application development. I am currently lea
 <br>
 
 <div style="display: flex; justify-content: space-around;">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  
+ <img height="30" src="https://imgur.com/iCuibxU.png">
+  
+ <img height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
+  
+ <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+  
+ <img height="30" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"> 
+  
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 
-<img height="30" src="https://rodanava.neocities.org/proyectofinal/imagenes/java.jpg">
+ <img height="30" src="https://rodanava.neocities.org/proyectofinal/imagenes/java.jpg">
+  
+ <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-<img height="30" src="https://res.cloudinary.com/escuela-frontend/image/upload/v1624399800/tags/nextjs.png">
+ <img height="30" src="https://res.cloudinary.com/escuela-frontend/image/upload/v1624399800/tags/nextjs.png">
 
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png">
+ <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png">
 </div>
 
 <br />
