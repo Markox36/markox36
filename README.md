@@ -5,7 +5,7 @@
 
 ## ABOUT ME
 
-### I'm a `FrontEnd` and `BackEnd` developer from 📍Spain.
+### I'm a `Full Stack Developer` from 📍Spain.
 ```
 I started programming Discord bots, learning how discord.js worked and the fundamentals of javascript.
 Later I became interested in web and application development. I am currently learning Java.  
