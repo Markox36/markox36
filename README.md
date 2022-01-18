@@ -18,11 +18,11 @@ Later I became interested in web and application development. I am currently lea
 
 **Web Design languages**
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code> 
+<code><img height="10" src="https://imgur.com/iCuibxU.png"> HTML</code> 
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS/SASS </code> 
+<code><img height="10" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> CSS/SASS </code> 
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> TAILWIND/BOOTSTRAP </code>
+<code><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"><img height="10" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"> TAILWIND/BOOTSTRAP </code>
 
 <br>
 
