@@ -83,7 +83,7 @@ Later I became interested in web and application development. I am currently lea
 
 <br />
 
-### MORE USED LANGUAGES
+### MOST USED LANGUAGES
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Markox36&theme=dark&layout=compact)](https://github.com/Dev-Markox36)
 
