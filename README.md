@@ -4,14 +4,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/dev_markox36?logo=twitter&style=for-the-badge)](https://twitter.com/dev_markox36)
 
 
-
-## ABOUT ME
-
-### I'm a `Full Stack Developer` from 📍Spain.
-```
-I started programming Discord bots, learning how discord.js worked and the fundamentals of javascript.
-Later I became interested in web and application development. I am currently learning Java.  
-```
 ## KNOWLEDGE
 
 <br>
