@@ -10,7 +10,7 @@
 
 **Web Design**
 
-<code><img height="10" src="https://imgur.com/iCuibxU.png"> HTML</code> 
+<code><img height="10" src="https://imgur.com/iCuibxU.png">HTML</code> 
 
 <code><img height="10" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> CSS/SASS </code> 
 
