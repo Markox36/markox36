@@ -40,8 +40,7 @@
 
 <code><img height="10" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"> Next.js</code>  
 
-<br>
-
+<br>sdg
 <div style="display: flex; justify-content: space-around;">
   
  <img height="30" src="https://imgur.com/iCuibxU.png">
