@@ -48,4 +48,4 @@
 
 <br />
 
-[![Markox36 Stats](https://github-readme-stats.vercel.app/api?username=Dev-Markox36&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Stadistics%of%Dev-Markox36)](https://github.com/Dev-Markox36)
+[![Markox36 Stats](https://github-readme-stats.vercel.app/api?username=Dev-Markox36&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Stadistics+of+Dev-Markox36)](https://github.com/Dev-Markox36)
