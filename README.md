@@ -41,12 +41,8 @@
 
 <br />
 
-### MOST USED LANGUAGES
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Markox36&theme=dark&layout=compact)](https://github.com/Dev-Markox36)
 
 <br />
 
-### MY GITHUB STATS
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Markox36&count_private=true&theme=dark&locale=es&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/Dev-Markox36)
+[![Markox36 Stats](https://github-readme-stats.vercel.app/api?username=Dev-Markox36&count_private=true&theme=dark&locale=en&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/Dev-Markox36)
