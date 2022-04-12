@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-### Libraries and Framework
+### Libraries / Frameworks
 ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-479464?style=flat-square&logo=express&logoColor=white)
 ![ELECTRON](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
@@ -37,11 +37,14 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ff3b3b?style=flat-square&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-c9bb18?style=flat-square&logo=PyCharm&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+<br />
+
 --- 
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Markox36&theme=dark&layout=compact)](https://github.com/Dev-Markox36)
+[![Top Langs](api?username=Dev-Markox36&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/Dev-Markox36)
 
 <br />
 
