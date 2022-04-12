@@ -44,7 +44,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private&layout=compact)](https://github.com/Dev-Markox36)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private&layout=compact&bg_color=1a1c1f)](https://github.com/Dev-Markox36)
 
 <br />
 
