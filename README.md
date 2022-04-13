@@ -29,7 +29,7 @@
 
 ### Databases
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
 
 ### IDE
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
