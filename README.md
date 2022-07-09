@@ -44,7 +44,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private&layout=compact&bg_color=1a1c1f&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/Dev-Markox36)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Markox36&count_private&layout=compact&bg_color=1a1c1f&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/Dev-Markox36)
 
 <br />
 
