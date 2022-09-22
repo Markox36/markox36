@@ -1,4 +1,4 @@
-# Hi I'm Dev-Markox36 👋
+# Hi I'm Markox36 👋
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/403917639673577482)
