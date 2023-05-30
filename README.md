@@ -1,4 +1,4 @@
-# Hi I'm Markox36 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Hi!+Im+Markox.+Full+stack+developer;Working+for+Kenabot;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/403917639673577482)
