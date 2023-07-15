@@ -1,82 +1,162 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Hi!+Im+Markox.+Full+stack+developer;Working+for+Kenabot;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Full+stack+developer;Working+for+Kenabot;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
+---
+### Main Stack
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/403917639673577482)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://es.react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="100">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
+      </a>
+      StyledComp
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" >
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100"> 
+      <a href="https://www.mongodb.com/" >
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+      <a href="https://redis.io/">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
 
-# KNOWLEDGE
+### Languages I used for Backend
+> The last three are in the learning phase
 
-### WEB DESIGN
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="100">
+      <a href="https://dev.java/learn/">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="https://kotlinlang.org/">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="100">
+      <a href="https://es.wikipedia.org/wiki/C%2B%2B#:~:text=C%2B%2B%20es%20un%20lenguaje,C%2B%2B%20es%20un%20lenguaje%20h%C3%ADbrido.">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.rust-lang.org/es">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+      </a>
+      Rust
+    </td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MARKDOWN](https://img.shields.io/badge/Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![STYLED-COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![ADOBEXD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+### Other tools I use
 
-### Programing languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-### Libraries / Frameworks
-
-![NODEJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-479464?style=flat-square&logo=express&logoColor=white)
-![ELECTRON](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
-![REACT](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Databases
-
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-### Cloud
-![VERCEL](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-### Linters y Formatters
-
-![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-
-### Version Control
-
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-### IDE
-
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![VSTUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ff3b3b?style=flat-square&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-c9bb18?style=flat-square&logo=PyCharm&logoColor=white)
-![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ANDROID](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-### Operative Systems
-
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-<br />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://threejs.org/">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" />
+      </a>
+      <br>ThreeJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.nginx.com/">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.gatsbyjs.com/">
+        <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+    <td align="center" width="100">
+      <a href="https://expressjs.com/es/">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
-<br />
+# Projects I'm working on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markox36&count_private=true&layout=compact&bg_color=1a1c1f&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/markox36)
+<img src="https://imgur.com/MmyKQdR.png" width="100" align="left" />
 
-<br />
+**Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 26M users with the best music quality possible!
 
-[![Markox36 Stats](https://github-readme-stats.vercel.app/api?username=markox36&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Stadistics+of+Dev-Markox36)](https://github.com/markox36)
+<hr>
+
+<img src="https://imgur.com/4dIsvYZ.png" width="100" align="right" />
+
+**Discord Hub** (soon...) is a project aimed at those who want to learn how to set up, manage, and run *Discord communities*. It provides a *step-by-step explanation* of how to achieve the goal and offers various tools to facilitate the process. [Join and get the best tips to turn your community into the best!](https://discordhub.fun)
+
+<hr>
+
+<img src="https://avatars.githubusercontent.com/u/137725425?s=400&u=e9acb476e86a980bd03cf2304da2e0f67bdb7e6f&v=4" width="100" align="left" />
+
+**Triviq** (soon...) the ultimate trivia platform, offering a vast array of challenging quizzes and diverse categories. With intuitive gameplay and engaging features, it keeps you hooked for hours of endless fun. Test your knowledge, compete with friends, and climb the leaderboard on this top-notch trivia hub.
+
+<hr>
+
+<img src="https://imgur.com/HdXWPjE.jpg" width="100" align="right" />
+
+**Dev's Answer** (soon...) the thriving Hispanic developer community, a vibrant space where newcomers to programming receive valuable assistance and where discussions cover a wide range of programming topics and beyond. Engage with fellow developers, explore the latest trends, and delve into a wealth of knowledge and resources to enhance your programming journey in this active and supportive community.
+
+---
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4039176310073577482)
