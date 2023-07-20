@@ -29,7 +29,7 @@
       StyledComp
     </td>
     <td align="center" width="100">
-      <a href="https://www.mongodb.com/" >
+      <a href="https://www.postgresql.org/" >
         <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
       </a>
       <br>PostgreSQL
