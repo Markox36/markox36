@@ -140,7 +140,7 @@
 
 <hr>
 
-<img src="https://avatars.githubusercontent.com/u/137725425?s=400&u=e9acb476e86a980bd03cf2304da2e0f67bdb7e6f&v=4" width="100" align="left" />
+<img src="https://avatars.githubusercontent.com/u/137725425?s=400&u=e9acb476e86a980bd03cf2304da2e0f67bdb7e6f&v=4" width="100" align="right" />
 
 **Triviq** (soon...) the ultimate trivia platform, offering a vast array of challenging quizzes and diverse categories. With intuitive gameplay and engaging features, it keeps you hooked for hours of endless fun. Test your knowledge, compete with friends, and climb the leaderboard on this top-notch trivia hub.
 
