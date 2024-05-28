@@ -137,7 +137,7 @@
 <img src="https://imgur.com/MmyKQdR.png" width="100" align="left" />
 </a>
 
-**Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 33M users with the best music quality possible!
+**Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 19M users with the best music quality possible!
 
 <hr>
 
