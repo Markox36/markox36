@@ -29,6 +29,12 @@
       StyledComp
     </td>
     <td align="center" width="100">
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwincss" />
+      </a>
+      TailwindCSS
+    </td>
+    <td align="center" width="100">
       <a href="https://www.postgresql.org/" >
         <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
       </a>
