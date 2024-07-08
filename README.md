@@ -145,12 +145,6 @@
 
 **Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 19M users with the best music quality possible!
 
-<hr>
-
-<img src="https://avatars.githubusercontent.com/u/137725425?s=400&u=e9acb476e86a980bd03cf2304da2e0f67bdb7e6f&v=4" width="100" align="right" />
-
-**Triviq** (soon...) the ultimate trivia platform, offering a vast array of challenging quizzes and diverse categories. With intuitive gameplay and engaging features, it keeps you hooked for hours of endless fun. Test your knowledge, compete with friends, and climb the leaderboard on this top-notch trivia hub.
-
 ---
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
