@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Full+stack+developer;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
----
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Full+stack+developer;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
+
 ### Main Stack
 
 <table>
@@ -21,12 +21,6 @@
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-    <td align="center" width="100">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
-      </a>
-      StyledComp
     </td>
     <td align="center" width="100">
       <a href="https://tailwindcss.com/">
@@ -52,10 +46,17 @@
       </a>
       <br>Redis
     </td>
+		<td align="center"  width="100">
+      <a href="https://www.postman.com/">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Redis" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
 </table>
 
 ### Languages I used for Backend
+
 > The last three are in the learning phase
 
 <table>
@@ -88,7 +89,13 @@
       <a href="https://www.rust-lang.org/es">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
       </a>
-      Rust
+      <br>Rust
+    </td>
+		<td align="center" width="100">
+      <a href="https://go.dev">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+      </a>
+      <br>Go
     </td>
   </tr>
 </table>
@@ -97,11 +104,23 @@
 
 <table>
   <tr>
+		<td align="center" width="100">
+				<a href="https://code.visualstudio.com/">
+					<img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" />
+				</a>
+				<br>VScode
+    </td>
+		<td align="center" width="100">
+				<a href="https://www.jetbrains.com/idea/">
+					<img src="https://skillicons.dev/icons?i=idea" alt="Intellij Idea" />
+				</a>
+				<br>Intellij Idea
+    </td>
     <td align="center" width="100">
-      <a href="https://threejs.org/">
-        <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" />
+      <a href="https://www.figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
       </a>
-      <br>ThreeJS
+      <br>Figma
     </td>
     <td align="center" width="100">
       <a href="https://nodejs.org/en">
@@ -110,16 +129,16 @@
       <br>NodeJS
     </td>
     <td align="center" width="100">
-      <a href="https://www.nginx.com/">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="git" />
       </a>
-      <br>Nginx
+      <br>Git
     </td>
     <td align="center" width="100">
-      <a href="https://www.gatsbyjs.com/">
-        <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" />
+      <a href="https://www.rabbitmq.com/">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
       </a>
-      <br>Gatsby
+      <br>Rabbitmq
     </td>
     <td align="center" width="100">
       <a href="https://expressjs.com/es/">
@@ -133,12 +152,19 @@
       </a>
       <br>Docker
     </td>
+		<td align="center" width="100">
+      <a href="https://www.prisma.io/">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>	
   </tr>
 </table>
 
 ---
 
 # Projects I'm working on
+
 <a href="https://kenabot.xyz/" target="_blank">
 <img src="https://imgur.com/MmyKQdR.png" width="100" align="left" />
 </a>
@@ -146,6 +172,6 @@
 **Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 19M users with the best music quality possible!
 
 ---
-  
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4039176310073577482)
