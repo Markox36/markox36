@@ -1,5 +1,3 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&lines=Full+stack+developer;Turning+ideas+into+reality+through+creative+works!)](https://git.io/typing-svg)
-
 ### Main Stack
 
 <table>
