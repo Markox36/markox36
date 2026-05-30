@@ -101,13 +101,14 @@
 ### Other tools I use
 
 <table>
-<td align="center" width="100">
+
+  <tr>
+	  <td align="center" width="100">
   <a href="https://www.debian.org/index.es.html">
 	<img src="https://skillicons.dev/icons?i=debian" alt="Debian icon" />
   </a>
   <br>Debian
 </td>
-  <tr>
 		<td align="center" width="100">
 				<a href="https://code.visualstudio.com/">
 					<img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" />
