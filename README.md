@@ -1,4 +1,4 @@
-### Main Stack
+### Frontend Stack
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-### Languages I used for Backend
+### Backend Stack
 
 > The last three are in the learning phase
 
@@ -101,18 +101,18 @@
 ### Other tools I use
 
 <table>
+<td align="center" width="100">
+  <a href="https://www.debian.org/index.es.html">
+	<img src="https://skillicons.dev/icons?i=debian" alt="Debian icon" />
+  </a>
+  <br>Debian
+</td>
   <tr>
 		<td align="center" width="100">
 				<a href="https://code.visualstudio.com/">
 					<img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" />
 				</a>
 				<br>VScode
-    </td>
-		<td align="center" width="100">
-				<a href="https://www.jetbrains.com/idea/">
-					<img src="https://skillicons.dev/icons?i=idea" alt="Intellij Idea" />
-				</a>
-				<br>Intellij Idea
     </td>
     <td align="center" width="100">
       <a href="https://www.figma.com/">
@@ -133,16 +133,16 @@
       <br>Git
     </td>
     <td align="center" width="100">
-      <a href="https://www.rabbitmq.com/">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
-      </a>
-      <br>Rabbitmq
-    </td>
-    <td align="center" width="100">
       <a href="https://expressjs.com/es/">
         <img src="https://skillicons.dev/icons?i=express" alt="Express" />
       </a>
       <br>Express
+    </td>
+	  <td align="center" width="100">
+      <a href="https://www.cloudflare.com/">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
+      </a>
+      <br>Cloudflare
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/">
@@ -150,12 +150,7 @@
       </a>
       <br>Docker
     </td>
-		<td align="center" width="100">
-      <a href="https://www.prisma.io/">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>	
+	  
   </tr>
 </table>
 
@@ -167,7 +162,7 @@
 <img src="https://imgur.com/MmyKQdR.png" width="100" align="left" />
 </a>
 
-**Kenabot** is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers such as `Ibai`, `Spreen`, `Carretera Army` and many more! Serving more than 19M users with the best music quality possible!
+**KenaBot** es un proyecto destacado en la comunidad de Discord en español, con más de **20 millones de usuarios**, basado en una sólida infraestructura y un enfoque innovador. El backend de KenaBot, que maneja las APIs, está construido en microservicios con arquitectura DDD utilizando Go, y los módulos del bot están desarrollados en diversos lenguajes según sus necesidades específicas. El frontend está dividido en microfrontends y desarrollado con Next.js, utilizando PostgreSQL yMongoDB como base de datos principal, y Redis para la caché.
 
 ---
 
