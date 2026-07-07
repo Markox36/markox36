@@ -1,171 +1,231 @@
-### Frontend Stack
+## 🧰 Tech Stack
+
+### Frontend
 
 <table>
   <tr>
     <td align="center" width="100">
       <a href="https://es.react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
       </a>
-      <br>ReactJS
+      <br><strong>React</strong>
     </td>
     <td align="center" width="100">
       <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
       </a>
-      <br>NextJS
+      <br><strong>Next.js</strong>
     </td>
     <td align="center" width="100">
       <a href="https://redux.js.org/">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
       </a>
-      <br>Redux
+      <br><strong>Redux</strong>
     </td>
     <td align="center" width="100">
       <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwincss" />
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
       </a>
-      TailwindCSS
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.postgresql.org/" >
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100"> 
-      <a href="https://www.mongodb.com/" >
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center"  width="100">
-      <a href="https://redis.io/">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-		<td align="center"  width="100">
-      <a href="https://www.postman.com/">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Redis" />
-      </a>
-      <br>Postman
+      <br><strong>Tailwind</strong>
     </td>
   </tr>
 </table>
 
-### Backend Stack
-
-> The last three are in the learning phase
+### Backend & Databases
 
 <table>
   <tr>
     <td align="center" width="100">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" />
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
       </a>
-      <br>Typescript
+      <br><strong>TypeScript</strong>
     </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+      </a>
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+      </a>
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://go.dev">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+      </a>
+      <br><strong>Go</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+      </a>
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </a>
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://redis.io/">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+      </a>
+      <br><strong>Redis</strong>
+    </td>
+  </tr>
+</table>
+
+### Learning / Exploring
+
+<table>
+  <tr>
     <td align="center" width="100">
       <a href="https://dev.java/learn/">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
       </a>
-      <br>Java
+      <br><strong>Java</strong>
     </td>
     <td align="center" width="100">
       <a href="https://kotlinlang.org/">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
       </a>
-      <br>Kotlin
+      <br><strong>Kotlin</strong>
     </td>
     <td align="center" width="100">
-      <a href="https://es.wikipedia.org/wiki/C%2B%2B#:~:text=C%2B%2B%20es%20un%20lenguaje,C%2B%2B%20es%20un%20lenguaje%20h%C3%ADbrido.">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" />
+      <a href="https://isocpp.org/">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
       </a>
-      <br>C++
+      <br><strong>C++</strong>
     </td>
     <td align="center" width="100">
-      <a href="https://www.rust-lang.org/es">
+      <a href="https://www.rust-lang.org/">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
       </a>
-      <br>Rust
-    </td>
-		<td align="center" width="100">
-      <a href="https://go.dev">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-      </a>
-      <br>Go
+      <br><strong>Rust</strong>
     </td>
   </tr>
 </table>
 
-### Other tools I use
+### Tools & Environment
 
 <table>
-
   <tr>
-	  <td align="center" width="100">
-  <a href="https://www.debian.org/index.es.html">
-	<img src="https://skillicons.dev/icons?i=debian" alt="Debian icon" />
-  </a>
-  <br>Debian
-</td>
-		<td align="center" width="100">
-				<a href="https://code.visualstudio.com/">
-					<img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" />
-				</a>
-				<br>VScode
+    <td align="center" width="100">
+      <a href="https://www.debian.org/">
+        <img src="https://skillicons.dev/icons?i=debian" alt="Debian" />
+      </a>
+      <br><strong>Debian</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+      </a>
+      <br><strong>VS Code</strong>
     </td>
     <td align="center" width="100">
       <a href="https://www.figma.com/">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
       </a>
-      <br>Figma
-    </td>
-    <td align="center" width="100">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" />
-      </a>
-      <br>NodeJS
+      <br><strong>Figma</strong>
     </td>
     <td align="center" width="100">
       <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="git" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
       </a>
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <a href="https://expressjs.com/es/">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-	  <td align="center" width="100">
-      <a href="https://www.cloudflare.com/">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
-      </a>
-      <br>Cloudflare
+      <br><strong>Git</strong>
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
       </a>
-      <br>Docker
+      <br><strong>Docker</strong>
     </td>
-	  
+    <td align="center" width="100">
+      <a href="https://www.cloudflare.com/">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+      </a>
+      <br><strong>Cloudflare</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postman.com/">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+      </a>
+      <br><strong>Postman</strong>
+    </td>
   </tr>
 </table>
 
 ---
 
-# Projects I'm working on
+## 🚀 Projects I'm working on
 
-<a href="https://kenabot.xyz/" target="_blank">
-<img src="https://imgur.com/MmyKQdR.png" width="100" align="left" />
-</a>
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://kenabot.xyz/" target="_blank">
+        <img src="https://imgur.com/MmyKQdR.png" width="90" alt="KenaBot logo" />
+      </a>
+    </td>
+    <td>
+      <h3>KenaBot</h3>
+      <p>
+        <strong>KenaBot</strong> es un proyecto destacado en la comunidad de Discord en español,
+        con más de <strong>20 millones de usuarios</strong>. Su backend está construido con
+        microservicios y arquitectura DDD usando Go, mientras que los módulos del bot se desarrollan
+        en distintos lenguajes según sus necesidades.
+      </p>
+      <p>
+        El frontend está dividido en microfrontends con Next.js, y la infraestructura utiliza
+        PostgreSQL, MongoDB y Redis para persistencia, consultas y caché.
+      </p>
+      <p>
+        <strong>Stack:</strong> Go · Next.js · PostgreSQL · MongoDB · Redis · Microservices · DDD
+      </p>
+    </td>
+  </tr>
+</table>
 
-**KenaBot** es un proyecto destacado en la comunidad de Discord en español, con más de **20 millones de usuarios**, basado en una sólida infraestructura y un enfoque innovador. El backend de KenaBot, que maneja las APIs, está construido en microservicios con arquitectura DDD utilizando Go, y los módulos del bot están desarrollados en diversos lenguajes según sus necesidades específicas. El frontend está dividido en microfrontends y desarrollado con Next.js, utilizando PostgreSQL yMongoDB como base de datos principal, y Redis para la caché.
+<br>
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://app.markox.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Markox36/Markox36/main/assets/kibo-logo.png" width="90" alt="Kibo logo" />
+      </a>
+    </td>
+    <td>
+      <h3>Kibo</h3>
+      <p>
+        <strong>Kibo</strong> es una aplicación de organización personal enfocada en centralizar
+        calendario, tareas, inbox, planificación diaria y modo focus en un solo lugar.
+      </p>
+      <p>
+        Está pensada como una app <strong>local-first</strong>, con escritorio en Tauri,
+        sincronización opcional mediante backend propio y una experiencia visual estilo
+        dev/Raycast-like.
+      </p>
+      <p>
+        <strong>Stack:</strong> React · Vite · Tauri · TypeScript · Fastify · SQLite · MongoDB Atlas · Tailwind CSS
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markox36)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4039176310073577482)
+## 🌐 Contact
+
+<p>
+  <a href="https://twitter.com/markox36">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/users/4039176310073577482">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
