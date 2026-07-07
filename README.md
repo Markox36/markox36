@@ -1,4 +1,4 @@
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -195,8 +195,8 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://app.markox.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Markox36/Markox36/main/assets/kibo-logo.png" width="90" alt="Kibo logo" />
+      <a href="https://kibo.markox.dev/" target="_blank">
+        <img src="https://kibo.markox.dev/kibo_logo.svg" width="90" alt="Kibo logo" />
       </a>
     </td>
     <td>
