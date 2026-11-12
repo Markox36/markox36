@@ -192,31 +192,6 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <a href="https://kibo.markox.dev/" target="_blank">
-        <img src="https://kibo.markox.dev/kibo_logo.svg" width="90" alt="Kibo logo" />
-      </a>
-    </td>
-    <td>
-      <h3>Kibo</h3>
-      <p>
-        <strong>Kibo</strong> es una aplicación de organización personal enfocada en centralizar
-        calendario, tareas, inbox, planificación diaria y modo focus en un solo lugar.
-      </p>
-      <p>
-        Está pensada como una app <strong>local-first</strong>, con escritorio en Tauri,
-        sincronización opcional mediante backend propio y una experiencia visual estilo
-        dev/Raycast-like.
-      </p>
-      <p>
-        <strong>Stack:</strong> React · Vite · Tauri · TypeScript · Fastify · SQLite · MongoDB Atlas · Tailwind CSS
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🌐 Contact
