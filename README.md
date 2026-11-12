@@ -1,181 +1,72 @@
-## Tech Stack
+ 
+<div align="center">
+
+# Hey, I'm Markox 👋
+
+### Software Engineer · Backend Developer · Distributed Systems Enthusiast
+
+*Building scalable applications, reliable backend services, and products used by real communities.*
+
+[![Website](https://img.shields.io/badge/My%20Portfolio-Website-12924f?style=flat-square&logo=SearXNG&logoColor=white)](https://kena.bot/)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/4039176310073577482)
+
+</div>
+
+## About Me
+
+I'm a software developer and Computer Engineering student passionate about **backend engineering, distributed systems, and software architecture**.
+
+I enjoy designing reliable services, solving complex engineering problems, and building applications that scale beyond personal projects.
+
+- Building and maintaining **KenaBot**, a multifunctional Discord platform.
+- Interested in **distributed architectures, microservices, and system design**.
+- Working primarily with **TypeScript, Node.js, Go, and PostgreSQL**.
+- Exploring infrastructure, Linux, containerization, and self-hosted environments.
+- Continuously learning about performance, concurrency, and software engineering.
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,java,cpp,rust&theme=dark" alt="Programming languages" />
+</p>
 
 ### Frontend
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://es.react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      </a>
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-      </a>
-      <br><strong>Next.js</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-      </a>
-      <br><strong>Redux</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
-      </a>
-      <br><strong>Tailwind</strong>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" alt="Frontend technologies" />
+</p>
 
 ### Backend & Databases
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-      </a>
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      </a>
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-      </a>
-      <br><strong>Express</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://go.dev">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-      </a>
-      <br><strong>Go</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.postgresql.org/">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      </a>
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.mongodb.com/">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      </a>
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://redis.io/">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-      </a>
-      <br><strong>Redis</strong>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" alt="Backend and database technologies" />
+</p>
 
-### Learning / Exploring
+**Also working with:** REST APIs · gRPC · Protocol Buffers · Event-Driven Architecture · Distributed Systems
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://dev.java/learn/">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      </a>
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://kotlinlang.org/">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-      </a>
-      <br><strong>Kotlin</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://isocpp.org/">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      </a>
-      <br><strong>C++</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.rust-lang.org/">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-      </a>
-      <br><strong>Rust</strong>
-    </td>
-  </tr>
-</table>
+### Infrastructure & Tools
 
-### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,github,vscode,postman&theme=dark" alt="Development and infrastructure tools" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.debian.org/">
-        <img src="https://skillicons.dev/icons?i=debian" alt="Debian" />
-      </a>
-      <br><strong>Debian</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-      </a>
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-      </a>
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-      </a>
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.docker.com/">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      </a>
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.cloudflare.com/">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
-      </a>
-      <br><strong>Cloudflare</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.postman.com/">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-      </a>
-      <br><strong>Postman</strong>
-    </td>
-  </tr>
-</table>
+## Featured Projects
 
----
-
-## 🚀 Projects I'm working on
+### KenaBot
 
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://kenabot.xyz/" target="_blank">
-        <img src="https://imgur.com/MmyKQdR.png" width="90" alt="KenaBot logo" />
+      <a href="https://kena.bot/" target="_blank">
+        <img src="https://i.imgur.com/IwIbjcs.png" width="90" alt="KenaBot logo" />
       </a>
     </td>
     <td>
-      <h3>KenaBot</h3>
       <p>
         <strong>KenaBot</strong> es un proyecto destacado en la comunidad de Discord en español,
-        con más de <strong>20 millones de usuarios</strong>. Su backend está construido con
+        con más de <strong>33 millones de usuarios</strong>. Su backend está construido con
         microservicios y arquitectura DDD usando Go, mientras que los módulos del bot se desarrollan
         en distintos lenguajes según sus necesidades.
       </p>
@@ -184,23 +75,22 @@
         PostgreSQL, MongoDB y Redis para persistencia, consultas y caché.
       </p>
       <p>
-        <strong>Stack:</strong> Go · Next.js · PostgreSQL · MongoDB · Redis · Microservices · DDD
+        <strong>Stack:</strong> Go · gRPC · PostgreSQL · MongoDB · Redis · Docker · DDD
       </p>
     </td>
   </tr>
 </table>
 
-<br>
+- - - 
 
----
+<div align="center">
+  
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=markox36&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used languages" />
 
-## 🌐 Contact
+</div>
 
-<p>
-  <a href="https://twitter.com/markox36">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/4039176310073577482">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+<div align="center">
+
+*Always building. Always learning.*
+
+</div>
