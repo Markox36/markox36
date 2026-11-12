@@ -1,13 +1,11 @@
  
 <div align="center">
-
-# Hey, I'm Markox 👋
-
+ 
 ### Software Engineer · Backend Developer · Distributed Systems Enthusiast
 
 *Building scalable applications, reliable backend services, and products used by real communities.*
 
-[![Website](https://img.shields.io/badge/My%20Portfolio-Website-12924f?style=flat-square&logo=SearXNG&logoColor=white)](https://kena.bot/)
+[![Website](https://img.shields.io/badge/My%20Portfolio-Website-12924f?style=flat-square&logo=SearXNG&logoColor=white)](https://markox.dev/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/4039176310073577482)
 
 </div>
